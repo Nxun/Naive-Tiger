@@ -1,0 +1,71 @@
+﻿lexer grammar Lexer1;
+
+options {
+    language=CSharp3;
+    TokenLabelType=CommonToken;
+}
+
+@namespace{NaiveTiger}
+
+// Lexer Rules
+
+ReservedWord
+	:	'array'
+	|	'break'
+	|	'do'
+	|	'else'
+	|	'end'
+	|	'for'
+	|	'function'
+	|	'if'
+	|	'in'
+	|	'let'
+	|	'nil'
+	|	'of'
+	|	'then'
+	|	'to'
+	|	'type'
+	|	'var'
+	|	'while'
+	|	'int'
+	|	'string'
+	;
+
+//Operator
+//	:	','
+//	|	':'
+//	|	';'
+//	|	'('
+//	|	')'
+//	|	'['
+//	|	']'
+//	|	'{'
+//	|	'}'
+//	|	'.'
+//	|	'+'
+//	|	'*'
+//	|	'/'
+//	|	'='
+//	|	'<>'
+//	|	'<'
+//	|	'<='
+//	|	'>'
+//	|	'>='
+//	|	'&'
+//	|	'|'
+//	|	':='
+//	;
+
+Identifier:('a'..'z' | 'A'..'Z')('a'..'z' | 'A'..'Z' | '0'..'9' | '_')*;
+
+IntegerLiteral:('0'..'9')+;
+
+StringLiteral:'"' ( '\\' . | ~('\\' | '"') )* '"';
+
+WhiteSpace:(' '|'\t'|'\r'|'\n')+;
+
+BlockComment:'/*' ( options { greedy = false; } : ( BlockComment | . ) )* '*/';
+
+LineComment:'//' ~('\n'|'\r')*;
+
+Other:.;

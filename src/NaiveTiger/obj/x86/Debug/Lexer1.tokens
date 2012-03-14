@@ -1,8 +1,0 @@
-BlockComment=4
-Identifier=5
-IntegerLiteral=6
-LineComment=7
-Other=8
-ReservedWord=9
-StringLiteral=10
-WhiteSpace=11
