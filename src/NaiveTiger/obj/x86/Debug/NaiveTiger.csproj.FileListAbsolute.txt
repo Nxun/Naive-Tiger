@@ -1,0 +1,17 @@
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\bin\Debug\SciLexer.dll
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\bin\Debug\NaiveTiger.exe
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\bin\Debug\NaiveTiger.pdb
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\bin\Debug\ScintillaNet.dll
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\obj\x86\Debug\NaiveTiger.Form1.resources
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\obj\x86\Debug\NaiveTiger.Properties.Resources.resources
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\obj\x86\Debug\NaiveTiger.exe
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\obj\x86\Debug\NaiveTiger.pdb
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\obj\x86\Debug\Lexer1.cs
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\obj\x86\Debug\NaiveTiger.csproj.AntlrGeneratedCodeFileListAbsolute.txt
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\bin\Debug\NaiveTigerCompiler.dll
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\bin\Debug\NaiveTigerCompiler.pdb
+C:\Users\Nxun\Desktop\NaiveTiger\NaiveTiger\bin\Debug\runtime.s
